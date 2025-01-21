@@ -1,0 +1,14 @@
+C:\Users\vande\source\repos\ToH\bin\Debug\net8.0\ToH.exe
+C:\Users\vande\source\repos\ToH\bin\Debug\net8.0\ToH.deps.json
+C:\Users\vande\source\repos\ToH\bin\Debug\net8.0\ToH.runtimeconfig.json
+C:\Users\vande\source\repos\ToH\bin\Debug\net8.0\ToH.dll
+C:\Users\vande\source\repos\ToH\bin\Debug\net8.0\ToH.pdb
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ToH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ToH.AssemblyInfoInputs.cache
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ToH.AssemblyInfo.cs
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ToH.csproj.CoreCompileInputs.cache
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ToH.dll
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\refint\ToH.dll
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ToH.pdb
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ToH.genruntimeconfig.cache
+C:\Users\vande\source\repos\ToH\obj\Debug\net8.0\ref\ToH.dll
